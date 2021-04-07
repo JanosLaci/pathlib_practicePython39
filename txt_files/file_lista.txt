@@ -1,0 +1,4 @@
+               C:\Users\janos\PycharmProjects\pathlib_practicePython39\txt_files\elso.txt
+        C:\Users\janos\PycharmProjects\pathlib_practicePython39\txt_files\masodik.txt
+                       C:\Users\janos\PycharmProjects\pathlib_practicePython39\txt_files\harmadik.txt
+        C:\Users\janos\PycharmProjects\pathlib_practicePython39\txt_files\negyedik.txt
